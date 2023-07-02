@@ -1,0 +1,34 @@
+body{
+ text-align: center;
+ background-color: cadetblue;
+ background-image:  url("doc/pexels-dmitry-demidov-3783471.jpg");
+ 
+}
+
+h1{
+font-size: 5rem;
+color: blanchedalmond;
+font-family: 'Times New Roman', Times, serif;
+text-shadow: 3px ;
+}
+
+
+
+.b{
+    background-image: url("doc/drm7.jpg");
+    width: 200px;
+    height: 200px;
+ 
+}
+
+.f{
+    background-image: url("doc/drm16.jpg");
+    width: 600px;
+    height: 500px;
+}
+.hero{
+    margin: 10% auto;
+  
+    
+}
+
