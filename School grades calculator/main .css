@@ -1,0 +1,26 @@
+h1{
+    background-color: rgb(167, 244, 247);
+    text-align: center;
+    box-shadow: 1cm;
+}
+
+body{
+    background-color:rebeccapurple;
+    background-image: url("doc/pexels-cottonbro-studio-5184951.jpg");  
+
+}
+
+div{
+    text-align: center;
+    
+
+}
+#hero{
+    text-align: center;
+    box-sizing: 1000px;
+}
+form{
+    text-align: center;
+    text-shadow: 10px bisque;
+    
+}
