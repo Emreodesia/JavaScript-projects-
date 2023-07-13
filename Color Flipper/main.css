@@ -1,0 +1,23 @@
+#hero{
+    margin: auto;
+     text-align: center;
+     margin-top: 200px;
+     border-radius: 10px;
+     width: 120px;
+     height: 100px;
+     font-family: arial;
+     font-weight: bold;
+     color: #14396A !important;
+     font-size: 14px;
+     text-shadow: 3px 3px 2px #DEDEDE;
+     box-shadow: 1px 1px 1px #BEE2F9;
+     padding: 10px 25px;
+     border-radius: 10px;
+     border: 2px solid #3866A3;
+     background: #63B8EE;
+     background: linear-gradient(to top, #63B8EE, #468CCF);
+     color: #14396A !important;
+     background: #468CCF;
+     background: linear-gradient(to top, #468CCF, #63B8EE);
+
+}
