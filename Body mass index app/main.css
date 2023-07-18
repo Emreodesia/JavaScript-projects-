@@ -1,0 +1,14 @@
+div{
+    text-align: center;
+    margin-left: 440px;
+    margin-right: 440px;
+  
+      background-image: url("2.jpg");
+      border-radius: 10px;
+    
+}
+
+body{
+  background-image:url("2.jpg");
+
+}
