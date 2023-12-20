@@ -1,5 +1,6 @@
-Hi
-📈I have gathered together the projects I have done to improve myself with JavaScript. I uploaded these projects to see my own progress.
+-Hi
+
+-📈I have gathered together the projects I have done to improve myself with JavaScript. I uploaded these projects to see my own progress.
 
 ![1ı](https://github.com/Emreodesia/JavaScript-projects-/assets/115417234/79db01bf-47be-4078-881b-fb8cb6d3c361)
 
