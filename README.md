@@ -1,6 +1,6 @@
 -Hi
 
--📈I have gathered together the projects I have done to improve myself with JavaScript. I uploaded these projects to see my own progress.
+-📈I have gathered together the projects I have done to improve myself with JavaScript. I uploaded these projects to see my own progress
 
 
 -Body mass index project (Htmls,CSS,JavaScript)
